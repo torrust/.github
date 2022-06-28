@@ -1,4 +1,4 @@
-![Torrust Organization Header Image](../img/2022_06_27-Torrust_Org_Title.png)
+![Torrust Organization Header Image](img/2022_06_27-Torrust_Org_Title.png)
 
 # Welcome to the GitHub of the __Torrust__ community-project!
 
@@ -17,4 +17,4 @@ We develop and extend our high-quality open-source BitTorrent Related Software:
  
 For more information, please consider visiting our website: __<http://torrust.org/>__.
 
-#### We strive to grow a fantastic, kind, and passionate community. [__New contributors are always welcome to join.__](../info/contributing.md)
+#### We strive to grow a fantastic, kind, and passionate community. [__New contributors are always welcome to join.__](info/contributing.md)
