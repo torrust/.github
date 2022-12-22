@@ -15,6 +15,6 @@ We develop and extend our high-quality open-source BitTorrent Related Software:
  - [__torrust-index-frontend__ (Web Application)](https://github.com/torrust/torrust-index-frontend)
 
  
-For more information, please consider visiting our website: __<http://torrust.org/>__.
+For more information, please consider visiting our website: __<http://torrust.com/>__.
 
 #### We strive to grow a fantastic, kind, and passionate community. [__New contributors are always welcome to join.__](info/contributing.md)
