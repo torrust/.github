@@ -1,5 +1,3 @@
-![Torrust Organization Header Image](img/2022_06_27-Torrust_Org_Title.png)
-
 # Welcome to the GitHub of the Torrust Project.
 
 **Torrust** is a community supported project that currently is sponsored by [Nautilus Cyberneering][nautilus].
