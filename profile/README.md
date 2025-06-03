@@ -8,7 +8,7 @@
 
 This summaries our focus on mixing the great [BitTorrent Protocol][bittorrent] with the excellent [Rust Programming Language][Rust].
 
-We strive to grow a fantastic, kind, and passionate community. [__New contributors are always welcome to join__](info/contributing.md)!
+We strive to grow a fantastic, kind, and passionate community. [__New contributors are always welcome to join__]((https://github.com/torrust/.github/blob/main/info/contributing.md)!
 
 > For more information, please consider visiting our website: __<https://torrust.com/>__.
 
